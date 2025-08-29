@@ -1,36 +1,51 @@
- Amit Upadhayay – GitHub Profile Overview
-Welcome to my GitHub! I am Amit Upadhayay, a passionate and persistent learner, currently working as a GIS Data Executive.
+#  Hi, I am Amit Upadhayay
 
-📁Overview
-Having a strong interest in the intersection of Quantum Computing and Artificial Intelligence. My work focuses on:
+##  Overview
+-  Passionate about learning and building solutions in **Data Science, Machine Learning, and Cloud Technologies**  
+-  Experienced in working with **Python, SQL, and AI/ML frameworks**  
+-  Exploring **Azure Machine Learning, MLOps, and Full-Stack Projects**  
+-  Goal: To contribute to impactful projects and grow as a professional in **AI and Cloud**  
 
-Classical ML, Deep Learning TensorFlow, and NLP
-End-to-end ML pipelines, model deployment, and Azure AI services
-Practical, well-documented projects with real-world applications
-My GitHub features reproducible notebooks, deployment scripts, and contributions to open-source projects.
+---
 
-📬 I am open to collaborative opportunities, internships, and full-time roles in AI/ML or quantum-focused applications.
-🔗 Feel free to explore my repositories and connect with me on LinkedIn
-🎓 Certification Pathway (via SkillUpOnline)
-Over 11 months, I completed the TechMaster Certificate Program in Artificial Intelligence with Data Science under SkillUpOnline.
+## Certifications
+-  [SQL for Data Science](https://courses.myclass.skillup.online/certificates/420a30d4f3d34ec294120505f69436f0)  
+-  [Python for Data Science and AI](https://courses.myclass.skillup.online/certificates/d6d59f9714854c5f9f332c02086d99b4)  
+-  [Analyzing Data with Python](https://courses.myclass.skillup.online/certificates/9102b65276c3405f98a4a561a90b4170)  
+-  [Introduction to Data Science](https://courses.myclass.skillup.online/certificates/b93c5eca5ccb4509b4ac9095221a3828)
+-  [AI/ML Geodata Analysis](https://www.linkedin.com/in/amit-upadhayay-16a2a595/details/certifications/1725556221642/single-media-viewer?type=DOCUMENT&profileId=ACoAABQndKIBoJ09uzNR5uH4urMf2le0oTifcSk&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bfa14%2BJ%2BfRGO%2FAjAxS6ESLg%3D%3D)
+-  [Visualizing Data with Python](https://courses.myclass.skillup.online/certificates/fde4495f4460456f929d1140e21b8477)
+-  [Machine Learning with Python : A Practical Introduction](https://courses.myclass.skillup.online/certificates/c86a42a4fe2b4419947ca3ce0a3bdd02)
+-  [Deep Learning Fundamentals](https://www.linkedin.com/in/amit-upadhayay-16a2a595/details/certifications/1738389130065/single-media-viewer?type=DOCUMENT&profileId=ACoAABQndKIBoJ09uzNR5uH4urMf2le0oTifcSk&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bfa14%2BJ%2BfRGO%2FAjAxS6ESLg%3D%3D)
+-  [Deep Learning with Tensorflow](https://courses.myclass.skillup.online/certificates/a7eb875a17a045018321dfbd4dec3f03)
+-  [TechMaster Certificate Program in Artificial Intelligence (AI) with Data Science](https://courses-in.skillup.online/programcertificates/54a5b077ca7147e38dfa9091ee4ae2e6)
 
-✅ Core Certifications
-TechMaster - Artificial Intelligence Foundations
-Introduction to Data Science
-Python for Data Science, AI & Development
-SQL for Data Science
-Analyzing Data with Python
-Visualizing Data with Python
-Machine Learning with Python: A Practical Introduction
-Deep Learning Fundamentals
-Deep Learning with TensorFlow
-☁️ Microsoft Azure Certifications
-AZ-900: Microsoft Azure Fundamentals
-AI-102: Designing and Implementing a Microsoft Azure AI Solution
-AI-3016: Develop Custom Copilots with Azure AI Studio
-DP-100: Designing and Implementing a Data Science Solution on Azure
-These certifications reflect not only subject mastery, but also my perseverance and never-give-up mindset. I am proud of this journey and grateful for the unwavering support of my mentors, the SkillUpOnline platform, and above all, the grace of God that carried me through challenging times.
+---
 
-📘 In Progress
-I also hold a certification in Quantum Computing, which I’ll be including soon.
-I continue to explore quantum approaches to optimization, model tuning, and algorithmic complexity reduction.
+## Azure Certifications (Skillup)
+- [AZ-900: Microsoft Azure Fundamentals](https://courses-in.skillup.online/certificates/286396f7ee1247d48d995f0f1d458c57)
+- [AI-102: Designing and Implementing a Microsoft Azure AI Solution](https://courses-in.skillup.online/certificates/7282a1e0e4504cdb83f12d8e7b49e202)
+- [AI-3016: Develop Custom Copilots with Azure AI Studio](https://courses-in.skillup.online/certificates/0a2a4147d1b7406a9ea1dea9ad6c260f)
+- [DP-100: Designing and Implementing a Data Science solution on Azure](https://courses-in.skillup.online/certificates/9aa46cfcc79c43eb9c61816090dea11a)
+---
+
+## Languages & Tools
+- **Programming Languages**:  
+  - Python 
+  - SQL    
+
+- **Cloud & Platforms**:  
+  - Microsoft Azure 
+  - Git & GitHub    
+
+- **Libraries & Frameworks**:  
+  - Pandas, NumPy, Matplotlib, Seborn, Scikit-learn, TensorFlow,   
+   
+---
+
+## Connect with Me
+- LinkedIn: www.linkedin.com/in/amit-upadhayay-16a2a595  
+- Email: amitupadhayay125@gmail.com
+
+---
+ From [amit-upadhayay](https://github.com/amit-upadhayay)
