@@ -3,7 +3,7 @@
 ##  Overview
 -  Passionate about learning and building solutions in **Data Science, Machine Learning, and Cloud Technologies**  
 -  Experienced in working with **Python, SQL, and AI/ML frameworks**  
--  Exploring **Azure Machine Learning, MLOps, and Full-Stack Projects**  
+-  Exploring **Azure Machine Learning**  
 -  Goal: To contribute to impactful projects and grow as a professional in **AI and Cloud**  
 
 ---
