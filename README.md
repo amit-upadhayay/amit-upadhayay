@@ -16,7 +16,7 @@
 -  [AI/ML Geodata Analysis](https://www.linkedin.com/in/amit-upadhayay-16a2a595/details/certifications/1725556221642/single-media-viewer?type=DOCUMENT&profileId=ACoAABQndKIBoJ09uzNR5uH4urMf2le0oTifcSk&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bfa14%2BJ%2BfRGO%2FAjAxS6ESLg%3D%3D)
 -  [Visualizing Data with Python](https://courses.myclass.skillup.online/certificates/fde4495f4460456f929d1140e21b8477)
 -  [Machine Learning with Python : A Practical Introduction](https://courses.myclass.skillup.online/certificates/c86a42a4fe2b4419947ca3ce0a3bdd02)
--  [Deep Learning Fundamentals](https://www.linkedin.com/in/amit-upadhayay-16a2a595/details/certifications/1738389130065/single-media-viewer?type=DOCUMENT&profileId=ACoAABQndKIBoJ09uzNR5uH4urMf2le0oTifcSk&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bfa14%2BJ%2BfRGO%2FAjAxS6ESLg%3D%3D)
+-  [Deep Learning Fundamentals](https://courses.myclass.skillup.online/certificates/83aec825741242c6b8aee84c38382a08)
 -  [Deep Learning with Tensorflow](https://courses.myclass.skillup.online/certificates/a7eb875a17a045018321dfbd4dec3f03)
 -  [TechMaster Certificate Program in Artificial Intelligence (AI) with Data Science](https://courses-in.skillup.online/programcertificates/54a5b077ca7147e38dfa9091ee4ae2e6)
 
